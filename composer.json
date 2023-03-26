@@ -9,7 +9,7 @@
     "securetrading/ioc" : "^3.0",
     "securetrading/data" : "^3.0",
     "securetrading/log" : "^3.0",
-    "securetrading/http" : "^3.0"
+    "egfl/securetrading-http" : "^3.0"
 
   },
   "require-dev" : {
