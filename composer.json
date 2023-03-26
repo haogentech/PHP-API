@@ -1,6 +1,6 @@
 {
   "name" : "egfl/stpp_json",
-  "version" : "4.0.3",
+  "version" : "4.0.4",
   "description" : "Secure Trading's JSON API.",
   "license" : "MIT",
   "require" : {
@@ -8,7 +8,7 @@
     "securetrading/exception" : "^1.0.1",
     "securetrading/ioc" : "^3.0",
     "securetrading/data" : "^3.0",
-    "securetrading/log" : "^3.0",
+    "egfl/securetrading-log" : "^3.0",
     "egfl/securetrading-http" : "^3.0"
 
   },
