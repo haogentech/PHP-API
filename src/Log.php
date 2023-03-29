@@ -2,6 +2,8 @@
 
 namespace Securetrading\Stpp\JsonInterface;
 
+use Stringable;
+
 class Log extends \Psr\Log\AbstractLogger
 {
     protected $_logger;
